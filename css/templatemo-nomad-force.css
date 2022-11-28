@@ -232,7 +232,7 @@ strong {
   content: "\f140";
   font-family: bootstrap-icons;
   display: inline-block;
-  margin-left: 10px;
+  margin-right: 10px;
   color: var(--primary-color);
   opacity: 0;
   -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
@@ -312,7 +312,7 @@ strong {
 }
 
 .navbar-toggler .navbar-toggler-icon {
-  background: var(--dark-color);
+  background: #FFFFFF;
   transition: background 10ms 300ms ease;
   display: block;
   width: 30px;
@@ -328,7 +328,7 @@ strong {
   position: absolute;
   right: 0;
   left: 0;
-  background: var(--dark-color);
+  background: #FFFFFF;
   width: 30px;
   height: 2px;
   content: '';
